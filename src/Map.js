@@ -17,14 +17,14 @@ function Map() {
                     })
                     view= new MapView({
                         map:webmap,
-                        center:[-83,42],
-                        // center:[3.406448, 6.465422],
+                        // center:[-83,42],
+                        center:[3.406448, 6.465422],
                         zoom:10,
                         // use ref as container
                         container:MapEl.current
                     })
                     const geojsonLayer= new GeoJSONLayer({
-                        url:"https://raw.githubusercontent.com/adarshvarma15/mygeojson/main/RMS_Crime_Incidents%20edited.geojson",
+                        url:"ghttps://raw.githubusercontent.com/Dexie14/arcgisapi/master/arcGIS.geojson",
                     });
                     webmap.add(geojsonLayer);
                 })

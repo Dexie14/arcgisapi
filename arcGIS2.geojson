@@ -1,0 +1,583 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1781,7.6166 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/mR4YWFsUGSyTZERm8",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/001",
+    "PU NAME":"AT CAMP (ILA NLA) / ITANLA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1661,7.5965 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/8nanDibXSSagQA6V9",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/002",
+    "PU NAME":"AT OKEREPA CAMP./ OKE EPA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1671,7.5833 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/q3CtWupi4ELLBHL36",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/003",
+    "PU NAME":"AT OKE ASO COMP. / OKE ASO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1739,7.5918 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/WK1PtCTyAmuEZsydA",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/004",
+    "PU NAME":"AT AMUJAGBA / AMUJAGBA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1848,7.5841 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/uLpPLo23Z3qqg7m78",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/005",
+    "PU NAME":"OKE OSUN AREA / OKE OSUN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1591,7.5754 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/8M7QNVgafRWJcneR7",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/006",
+    "PU NAME":"AT OLORA COMP. / OLORA COMP."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1626,7.5844 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/kPinhT23RZekVT9Z7",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/007",
+    "PU NAME":"AT ADEMILUYI COMP. / ADEMILUYI'S COMP."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.2118,7.5734 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/bPPhqqkUzMPbxexX8",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/008",
+    "PU NAME":"AT AJEBAMIDELE COMP. / AJEBAMIDELE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1584,7.5548 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/3hWCRpbZoWBFcjFu5",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/009",
+    "PU NAME":"ADUGBOKUN COMP. / ADUGBOKUN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1309,7.6128 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/FuBdumad8bEUgf1Z9",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/010",
+    "PU NAME":"ODO PRY. SCH. / ODO VILLAGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1678,7.5802 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/gimtBRkUt8SutKC2A",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/011",
+    "PU NAME":"IN FRONT OF ABA ALAGA / IFESOWAPO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.2936,7.5505 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/4BZFmmuXJ3Xcvx2dA",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/012",
+    "PU NAME":"IN FRONT OF ADEPOJU'S HOUSE / IDEGBE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.2694,7.5801 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/C3nLHVZSmtKvdizH7",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/013",
+    "PU NAME":"IGIMOKOGO PRY. SCH. / IGIMOKOGO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.3366,7.5817 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/ez4iF2UCjfqDRFtc9",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/014",
+    "PU NAME":"AT ATEGBADO VILLAGE / RESERVE VILLAGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.2846,7.5873 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/mbL6UuEYSUgZ3zQHA",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/015",
+    "PU NAME":"AT ITALAORO CAMP. / ITALAORO COMP."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.2399,7.6018 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/KfC43m1pgh7Vd4A59",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/016",
+    "PU NAME":"IN FRONT OF SEDU'S HOUSE / ITA EKU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.2506,7.5851 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/rif5j5for8fNpAre8",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/017",
+    "PU NAME":"IN FRONT OF MOMODU'S COMP. / OMI OLOKO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.2728,7.6078 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/XYk3mTA4vywtRueK6",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/018",
+    "PU NAME":"AT UNITY SEC. SCH. / ERINFUN / UNITY SEC. SCH. IREJE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.2885,7.6032 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/uqJpHnKdtE2NdAyo9",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/019",
+    "PU NAME":"PRY. SCH., AGO IGBIRA, ERINFUN / ERINFUN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.2618,7.5533 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/vHkpFvd2i7rCWvo7A",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/020",
+    "PU NAME":"PRY. SCH., IGIRIGIRI / AYOKO, IGIRIGIRI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.288,7.6246 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/PCbogbZb45hAfYpy5",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/021",
+    "PU NAME":"IN FRONT OF ADUBIARO COMP. / EMIRIN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.2946,7.5963 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/ZCQRXHk4eyHD31Zc9",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/022",
+    "PU NAME":"FEDERAL POLT. COMP. / FED. POLY, AGO OLOGUNJA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.331,7.6035 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/NsMX3gfPwfATrj5k8",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/023",
+    "PU NAME":"PRY. SCH. AGO ADULOJU / AGO ADUGBOKUN , ADULOJU"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.3273,7.6506 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/5E1Eh1bxUwcQ2r3Z8",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/024",
+    "PU NAME":"PRY. SCH., IGBOGUN/ IGBOGUN VILLAGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.351,7.6183 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/eERVebnamrqJm1Er9",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/025",
+    "PU NAME":"PRY. SCH. AGO AYEGUNLE / AGO AYEGUNLE , AGO ARAROMI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.3705,7.5831 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/HD7z5yap3NGV82pY6",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/026",
+    "PU NAME":"IN FRONT OF OMOSIO'S COMP. / KAJOLA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.205853209,7.569244903 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/gaReu2tsD6UjRbpB9",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/027",
+    "PU NAME":"open space at Shiloh junction/ajebamidele."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.206021853,7.57272996 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/8ayxjGVDuxs5xAtR7",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/028",
+    "PU NAME":"Open space at pastor Bello Area/ Estate Junction Rd.4 Ajebamidele"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.211673267,7.563566586 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/S1LaMARdpVvC8myV7",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/029",
+    "PU NAME":"open space at Golden avenue community/ opp pastoral center."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.243610665,7.600005555 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/QEbxHmGJ1md9KpnJA",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/030",
+    "PU NAME":" open space at aladesun area/near second mask itaekun."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.274413154,7.610313338 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/vhhT3imhujsYEjki8",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/031",
+    "PU NAME":"at unity secondary School erifun/ureje II."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.270950086,7.611261787 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/K9ZPAyodVKD18ck69",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/032",
+    "PU NAME":"D.T.C demonstration primary school Emirin/Ureje."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.287735015,7.605733239 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/JCo9KbrAcoEENqr96",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/033",
+    "PU NAME":"open space at basic health center erinfun."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.309746563,7.599898212 ]
+    },
+    "properties": {
+    "Direction Links":"https://goo.gl/maps/zbUqMnHq8a1xApUr5",
+    "STATE":"EKITI",
+    "LGA":"ADO EKITI",
+    "LGA CODE":"1",
+    "RA":"ADO 'M' FARM SETTLEMENT",
+    "RA CODE":13,
+    "PU CODE":"13/01/13/034",
+    "PU NAME":"open space at ago coner/opp ABUAD Hospital"
+    }
+  }
+]
+}
