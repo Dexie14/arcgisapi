@@ -52,8 +52,8 @@ function Map() {
                     view= new MapView({
                         map:webmap,
                         // center:[-83,42],
-                        center:[3.406448, 6.465422],
-                        zoom:8,
+                        center:[5.1781, 7.6166],
+                        zoom:10,
                         // use ref as container
                         container:MapEl.current
                     })
