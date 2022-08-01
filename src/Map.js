@@ -24,7 +24,7 @@ function Map() {
                         container:MapEl.current
                     })
                     const geojsonLayer= new GeoJSONLayer({
-                        url:"ghttps://raw.githubusercontent.com/Dexie14/arcgisapi/master/arcGIS.geojson",
+                        url:"https://raw.githubusercontent.com/Dexie14/arcgisapi/master/arcGIS2.geojson",
                     });
                     webmap.add(geojsonLayer);
                 })
